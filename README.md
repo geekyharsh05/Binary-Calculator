@@ -50,7 +50,7 @@ To use the Binary Calculator, follow these steps:
 
 ## :clapper: Demo
 
-You can see a live demo of the Analog Clock project [here]).
+You can see a live demo of the Analog Clock project [here](https://harshsbinarycalculator.vercel.app).
 
 ## :technologist: Technologies Used
 
